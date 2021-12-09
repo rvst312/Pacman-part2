@@ -9,7 +9,7 @@ public:
 	/// <summary>
 	/// The map tiles and it's symbols
 	/// </summary>
-	enum MAP_TILES { MAP_EMPTY = ' ', MAP_WALL = '#', MAP_POINT = '.'};
+	enum MAP_TILES { MAP_EMPTY = ' ', MAP_WALL = '#', MAP_POINT = '.', MAP_POWERUP = '*' };
 	/// <summary>
 	/// The background color given a map tile
 	/// </summary>
